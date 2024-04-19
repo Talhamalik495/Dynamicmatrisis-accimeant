@@ -1,0 +1,24 @@
+let matrisis = [[4, 2, 6, 8, 9, 7, 8], [4, 9, 7, 6, 8, 2, 1, 6], [8, 5, 7, 6, 2, 3, 8, 9]]
+console.log(matrisis[0][0]);
+console.log(matrisis[0][1]);
+console.log(matrisis[0][2]);
+console.log(matrisis[0][3]);
+console.log(matrisis[0][4]);
+console.log(matrisis[0][5]);
+console.log(matrisis[0][6]);
+console.log(matrisis[1][0]);
+console.log(matrisis[1][1]);
+console.log(matrisis[1][2]);
+console.log(matrisis[1][3]);
+console.log(matrisis[1][4]);
+console.log(matrisis[1][5]);
+console.log(matrisis[1][6]);
+console.log(matrisis[1][7]);
+console.log(matrisis[2][0]);
+console.log(matrisis[2][1]);
+console.log(matrisis[2][2]);
+console.log(matrisis[2][3]);
+console.log(matrisis[2][4]);
+console.log(matrisis[2][5]);
+console.log(matrisis[2][6]);
+console.log(matrisis[2][7]);
